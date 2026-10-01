@@ -7,3 +7,4 @@ A simple 8x8 chessboard built with HTML and CSS.
 - Alternating light and dark squares
 - Colours: light `#f0d9b5`, dark `#b58863`
 - Pure HTML and CSS, no JavaScript or libraries
+helloo
